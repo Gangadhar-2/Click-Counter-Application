@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  font-family: 'Roboto';
+  color: black;
+  font-size: 35px;
+}
+
+.para {
+  font-family: 'Roboto';
+  color: black;
+  font-size: 15px;
+}
+.btn {
+  height: 35px;
+  width: 115px;
+  padding: 10px;
+  color: white;
+  background-color: blue;
+  border-radius: 15px;
+  border-width: 0px;
+}
